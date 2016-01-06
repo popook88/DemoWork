@@ -1,5 +1,9 @@
 <h1>Demo Work Summary </h1>
 
+Kevin Kane
+Kevin@KevinJKane.com
+www.Linkedin.com/in/kkane3
+
 <b> Evernote1.cpp </b>
 Implement a circular buffer of size N. Allow the caller to append, remove and list the contents of the buffer. Implement the buffer to achieve maximum performance for each of the operations.
 
@@ -16,3 +20,8 @@ Then if they are equal compares the strings to find the lexicographically least 
 Given a list of integers, your task is to write a program to output an integer-valued list of equal length such that the output element at index 'i' is the product of all input elements except for the input element at 'i'.
 
 Solution summary:We use the fact that the result we are looking for is the result of multiplying all the numbers to the left of the number by all the numbers to the right of the number to achieve O(n) for this solution.
+
+There is more demo work in the TopCoderSolutions folder but that code is written more in the style of programming contests where time is more important than readibility/maintainability.
+
+Thank you!
+
