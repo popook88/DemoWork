@@ -1,7 +1,9 @@
 <h1>Demo Work Summary </h1>
 
 Kevin Kane
+
 Kevin@KevinJKane.com
+
 www.Linkedin.com/in/kkane3
 
 <b> Evernote1.cpp </b>
